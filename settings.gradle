@@ -1,0 +1,2 @@
+rootProject.name='Latihan RxJava'
+include ':app'
